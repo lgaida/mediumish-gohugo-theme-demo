@@ -5,6 +5,7 @@ theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "John Doe - All rights reserved"
 enableEmoji = true
+publishDir = "docs"
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
