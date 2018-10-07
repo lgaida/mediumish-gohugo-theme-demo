@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interesting on Mediumish</title>
-    <link>https://localhost:1313/tags/interesting/</link>
+    <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/tags/interesting/</link>
     <description>Recent content in Interesting on Mediumish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lgaida.github.io/mediumush-gohugo-theme-demo/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ninth</title>
-      <link>https://localhost:1313/blog/ninth/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/ninth/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/ninth/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/ninth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Eighth</title>
-      <link>https://localhost:1313/blog/eighth/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/eighth/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/eighth/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/eighth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Seventh</title>
-      <link>https://localhost:1313/blog/seventh/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/seventh/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/seventh/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/seventh/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Sixth</title>
-      <link>https://localhost:1313/blog/sixth/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/sixth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/sixth/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/sixth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fifth</title>
-      <link>https://localhost:1313/blog/fifth/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/fifth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/fifth/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/fifth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fourth</title>
-      <link>https://localhost:1313/blog/fourth/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/fourth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/fourth/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/fourth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://localhost:1313/blog/third/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/third/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/third/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/third/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://localhost:1313/blog/second/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/second/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/second/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/second/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://localhost:1313/blog/my-first-post/</link>
+      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/my-first-post/</link>
       <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
       
-      <guid>https://localhost:1313/blog/my-first-post/</guid>
+      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/blog/my-first-post/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
     </item>
     

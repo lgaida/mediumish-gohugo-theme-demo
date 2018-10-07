@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313"
+baseURL = "https://lgaida.github.io/mediumush-gohugo-theme-demo/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "mediumish-gohugo-theme"
