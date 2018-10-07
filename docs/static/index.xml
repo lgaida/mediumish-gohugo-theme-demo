@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on Mediumish</title>
-    <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/static/</link>
+    <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/static/</link>
     <description>Recent content in Statics on Mediumish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
     
-	<atom:link href="https://lgaida.github.io/mediumush-gohugo-theme-demo/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lgaida.github.io/mediumish-gohugo-theme-demo/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imprint</title>
-      <link>https://lgaida.github.io/mediumush-gohugo-theme-demo/static/imprint/</link>
+      <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/static/imprint/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>https://lgaida.github.io/mediumush-gohugo-theme-demo/static/imprint/</guid>
+      <guid>https://lgaida.github.io/mediumish-gohugo-theme-demo/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
