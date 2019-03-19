@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/separate/separate/</loc>
+    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/ninth/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url>
@@ -77,7 +82,13 @@
   
   <url>
     <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/separate/</loc>
+    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   

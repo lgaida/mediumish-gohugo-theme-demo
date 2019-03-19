@@ -44,6 +44,11 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
+    name = "Separate"
+    weight = 100
+    identifier = "separate"
+    url = "/separate"
+[[menu.main]]
     name = "About Me"
     identifier = "about"
     weight = 200
