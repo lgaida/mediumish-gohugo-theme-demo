@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/</loc>
+    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/separate/separate/</loc>
     <lastmod>2019-03-19T22:04:13+01:00</lastmod>
   </url>
   
   <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/separate/</loc>
+    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/drink/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/interesting/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/ninth/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url>
   
@@ -48,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/my-first-post/</loc>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/first/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url>
   
@@ -58,50 +88,12 @@
   </url>
   
   <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/static/</loc>
+    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/drink/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/interesting/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/</loc>
-    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/separate/</loc>
-    <lastmod>2019-03-19T22:04:13+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/static/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

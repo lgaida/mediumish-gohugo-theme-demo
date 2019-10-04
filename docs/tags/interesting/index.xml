@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interesting on Mediumish</title>
+    <title>interesting on Mediumish</title>
     <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/interesting/</link>
-    <description>Recent content in Interesting on Mediumish</description>
+    <description>Recent content in interesting on Mediumish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
@@ -86,10 +86,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/my-first-post/</link>
+      <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/first/</link>
       <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
       
-      <guid>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/my-first-post/</guid>
+      <guid>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/first/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
     </item>
     
